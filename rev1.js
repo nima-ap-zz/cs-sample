@@ -1,6 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 // Welcome to your first Cloud Script revision!
+123
 //
 // Cloud Script runs in the PlayFab cloud and has full access to the PlayFab Game Server API 
 // (https://api.playfab.com/Documentation/Server), and it runs in the context of a securely
