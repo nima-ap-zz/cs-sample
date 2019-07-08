@@ -27,7 +27,7 @@
 // Photon room events trigger webhooks which call corresponding Cloud Script functions.
 // 
 // The following examples demonstrate all three options.
-//
+// 1
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
